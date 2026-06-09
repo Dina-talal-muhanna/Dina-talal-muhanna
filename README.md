@@ -15,7 +15,7 @@ I am an **Electronics and Communications Engineering** graduate and a **Data Eng
 ### 🚀 About Me
 - 🎓 **ITI ITP Graduate** - Data Engineering Track.
 - ✉️ **Contact me:** muhannadinatalal@gmail.com
-- 🔗 **LinkedIn:** [Insert your LinkedIn Link here]
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/dina-talal-muhanna-4a060521a/
 
 ---
 *Looking forward to connecting and building impactful data solutions!*
