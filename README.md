@@ -10,6 +10,17 @@
 
 ---
 
+### 👩‍💻 About Me
+
+🎓 **ITI Graduate** — Professional Diploma in Data Engineering  
+🏫 Electronics & Communications Engineering — Zagazig University  
+💡 Passionate about real-time data pipelines, cloud architecture & turning raw data into actionable insights  
+🌍 Based in Cairo, Egypt  
+📫 muhannadinatalal@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dina-talal-muhanna-4a060521a/)
+
+---
+
 ### 🛠 Tech Stack
 
 <p>
@@ -26,26 +37,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dina-talal-muhanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dina-talal-muhanna&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dina-talal-muhanna&theme=tokyonight&hide_border=true" />
-
----
-
-### 🚀 About Me
-
-🎓 **ITI Graduate** — Data Engineering Track  
-💡 Passionate about real-time data, pipeline architecture & turning raw data into insights  
-📫 muhannadinatalal@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dina-talal-muhanna-4a060521a/)
 
 ---
 
